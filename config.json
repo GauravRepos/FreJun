@@ -1,0 +1,12 @@
+{
+
+    "SECRET_KEY": "django-insecure-&)9$l+vvu3gf$#k+#fa8b+oa$ajczyy5p30mcomk)_6vtk%1y1",  
+    "test": {
+      "DEBUG": true
+    },
+  
+    "production": {
+      "DEBUG": false
+      }
+      
+    }
